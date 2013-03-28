@@ -11,6 +11,7 @@ import android.view.animation.Animation;
 import android.view.animation.TranslateAnimation;
 import android.widget.ViewFlipper;
 
+
 /**
  * Created with IntelliJ IDEA.
  * User: zouying

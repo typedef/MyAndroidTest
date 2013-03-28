@@ -25,7 +25,7 @@ public class MyGridViewAdapter extends BaseAdapter {
     public MyGridViewAdapter(Context con, String[] items, int[] icons){
         mContext = con;
         mIcons   = icons;
-        mItems = items;
+        mItems   = items;
     }
 
     public int getCount(){

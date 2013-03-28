@@ -32,16 +32,19 @@
     <file path="/MyActivity.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1363082125744" ignored="false" />
     <file path="$PROJECT_DIR$/ActionBarTest/res/values/strings.xml" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1363081203578" ignored="false" />
     <file path="$PROJECT_DIR$/ActionBarTest/res/layout/main.xml" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1363081203578" ignored="false" />
-    <file path="/MyActivity03.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364136380935" ignored="false" />
+    <file path="/MyActivity03.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364477493727" ignored="false" />
     <file path="/Dummy.txt" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364220563198" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364222874773" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/example/myandroidtest/Manifest.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364222911201" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364478222771" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/myandroidtest/Manifest.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364478228799" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/example/myandroidtest/R.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364222911201" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/example/myandroidtest/BuildConfig.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364222995762" ignored="false" />
-    <file path="/fragment.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364222922450" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/myandroidtest/BuildConfig.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364478236441" ignored="false" />
+    <file path="/fragment.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364477369382" ignored="false" />
     <file path="/MyBitmapMatrix.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364224404026" ignored="false" />
     <file path="/BitmapMatrix.xml" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364221944572" ignored="false" />
     <file path="/bitmapmatrix.xml" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364223686149" ignored="false" />
+    <file path="/AnimationHelp.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364477463929" ignored="false" />
+    <file path="/SearchManagerActivity.java" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364481402784" ignored="false" />
+    <file path="/searchmanager.xml" changelist="41da994c-e80a-4be9-8099-034ec6e33fb2" time="1364480276315" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,29 +103,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyBitmapMatrix.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/MyBitmapMatrix.java">
+      <file leaf-file-name="SearchManagerActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/SearchManagerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="38" selection-start="2411" selection-end="2411" vertical-scroll-proportion="0.2857143">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1689#1928#0" expanded="true" />
-                <element signature="e#1917#1918#0" expanded="true" />
-                <element signature="e#1972#2212#0" expanded="true" />
-                <element signature="e#2201#2202#0" expanded="true" />
-              </folding>
+            <state line="55" column="85" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.8547486">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bitmapmatrix.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/bitmapmatrix.xml">
+      <file leaf-file-name="searchmanager.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/searchmanager.xml">
+          <provider editor-type-id="text-editor">
+            <state line="8" column="40" selection-start="322" selection-end="322" vertical-scroll-proportion="-4.8">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/grid.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="39" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.75">
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="android-designer">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyGridViewAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/MyGridViewAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="21" selection-start="1565" selection-end="1565" vertical-scroll-proportion="-4.1346154">
+            <state line="49" column="83" selection-start="1018" selection-end="1436" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SlidingDrawerActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/SlidingDrawerActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="57" selection-start="1151" selection-end="1168" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnimationHelp.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/AnimationHelp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,7 +168,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="54" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0">
+            <state line="20" column="39" selection-start="944" selection-end="950" vertical-scroll-proportion="-7.576923">
               <folding />
             </state>
           </provider>
@@ -149,12 +187,15 @@
         <option value="$PROJECT_DIR$/ActionBar/src/com/example/ActionBar/MyActivity.java" />
         <option value="$PROJECT_DIR$/ActionBarTest/src/com/example/ActionBarTest/MyActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/myactivity03.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/myandroidtest/AnimationHelp.java" />
-        <option value="$PROJECT_DIR$/src/com/example/myandroidtest/MyActivity03.java" />
         <option value="$PROJECT_DIR$/res/layout/BitmapMatrix.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/bitmapmatrix.xml" />
         <option value="$PROJECT_DIR$/src/com/example/myandroidtest/MyBitmapMatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/example/myandroidtest/AnimationHelp.java" />
+        <option value="$PROJECT_DIR$/src/com/example/myandroidtest/MyActivity03.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/myandroidtest/MyGridViewAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/searchmanager.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/myandroidtest/SearchManagerActivity.java" />
       </list>
     </option>
   </component>
@@ -191,6 +232,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,20 +253,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MyAndroidTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyAndroidTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyAndroidTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -259,28 +288,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyAndroidTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyAndroidTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,7 +301,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="preferences.general" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="AndroidLayoutSelectedEditor" value="android-designer" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -300,8 +309,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -340,19 +349,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -379,6 +375,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -437,8 +446,8 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="Nexus7" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
       <option name="COMMAND_LINE" value="" />
       <option name="WIPE_USER_DATA" value="false" />
       <option name="DISABLE_BOOT_ANIMATION" value="false" />
@@ -467,14 +476,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="694" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1280" height="694" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6707317" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6707317" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6707317" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6707317" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -485,13 +494,13 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32752612" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1936791" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25974026" sideWeight="0.67247385" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -560,35 +569,60 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/myactivity03.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="54" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/myactivity03.xml">
       <provider editor-type-id="text-editor">
         <state line="22" column="21" selection-start="870" selection-end="870" vertical-scroll-proportion="-13.2">
           <folding />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../mobile_tools/adt-bundle-mac-x86_64/sdk/platforms/android-17/android.jar!/android/view/animation/TranslateAnimation.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="11" selection-start="482" selection-end="482" vertical-scroll-proportion="0.3095685">
-          <folding>
-            <element signature="e#0#889#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="11" column="11" selection-start="482" selection-end="482" vertical-scroll-proportion="0.3095685" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../mobile_tools/adt-bundle-mac-x86_64/sdk/platforms/android-17/android.jar!/android/widget/ViewAnimator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="16" selection-start="555" selection-end="555" vertical-scroll-proportion="0.33333334">
+        <state line="15" column="16" selection-start="555" selection-end="555" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/chinaflag.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/MyBitmapMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="50" selection-start="3211" selection-end="3211" vertical-scroll-proportion="2.6648352">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bitmapmatrix.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="21" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.81781375">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/AnimationHelp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.0">
+        <state line="13" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -597,45 +631,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/MyActivity03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="28" selection-start="1828" selection-end="1828" vertical-scroll-proportion="1.2521008">
+        <state line="55" column="28" selection-start="1829" selection-end="1829" vertical-scroll-proportion="0.3529412">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/SlidingDrawerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="57" selection-start="1151" selection-end="1168" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/MyGridViewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="83" selection-start="1018" selection-end="1436" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/grid.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="39" selection-start="605" selection-end="605" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../mobile_tools/adt-bundle-mac-x86_64/sdk/platforms/android-17/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="265" column="19" selection-start="10117" selection-end="10117" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/searchmanager.xml">
+      <provider editor-type-id="text-editor">
+        <state line="8" column="40" selection-start="322" selection-end="322" vertical-scroll-proportion="-4.8">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="54" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0">
+        <state line="20" column="39" selection-start="944" selection-end="950" vertical-scroll-proportion="-7.576923">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/chinaflag.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/bitmapmatrix.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/SearchManagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="21" selection-start="1565" selection-end="1565" vertical-scroll-proportion="-4.1346154">
+        <state line="55" column="85" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.8547486">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/myandroidtest/MyBitmapMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="38" selection-start="2411" selection-end="2411" vertical-scroll-proportion="0.2857143">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1689#1928#0" expanded="true" />
-            <element signature="e#1917#1918#0" expanded="true" />
-            <element signature="e#1972#2212#0" expanded="true" />
-            <element signature="e#2201#2202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
