@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">myandroidtest</string>
+    <string name="search_label">search_label</string>
+    <string name="search_hint">请输入日期(YYYYMMDD)</string>
+    <string name="settings_description">用日期搜索图片</string>
 </resources>
